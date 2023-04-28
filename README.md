@@ -1,7 +1,7 @@
 # Portfolio
 | Number | Repository | Description|
 | ------ | ---------- | ---------- |
-| R1 | Activity 1() | Dialogue Box And Scanner |
+| R1 | Activity 1(https://github.com/RedInTheHead/Portfolio/blob/main/Project%201.iml) | Dialogue Box And Scanner |
 | R2 | Activity 2() | Conditionals and Logical Operators |
 | R3 | Activity 3() | Switch Statements |
 | R4 | Activity 4() | Conditionals and Equals review |
